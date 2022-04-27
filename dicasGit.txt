@@ -1,0 +1,9 @@
+1O) Criar um projeto de gitHub
+
+2o) Clonar um projeto na sua estação de trabalho (primeira vez
+
+3o) começar o projeto de programação na estação de trabalho
+
+
+Comandos básicos
+1) Clonagema de repositório a primeira vez
