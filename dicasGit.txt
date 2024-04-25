@@ -16,4 +16,7 @@ Após intalação é necessário entrar no vs code e configurar o usuário do gi
 https://git-scm.com/book/pt-br/v2/Começando-Configuração-Inicial-do-Git
 ==>
 git config --global user.name "Andréa Silvestre"
-git config --global user.email
+git config --global user.email andrea.silvestre@yahoo.com.br
+==> agora podemos baixar os projetos:
+git clone <url do git>
+==>
